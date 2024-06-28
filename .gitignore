@@ -1,0 +1,12 @@
+__pycache__/
+.DS_Store
+
+venv/
+.venv/
+
+*.ipynb
+.vscode/
+
+data/input/*
+data/output/*
+credentials
